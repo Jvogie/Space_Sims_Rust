@@ -1,0 +1,10 @@
+[package]
+name = "orbit_rl"
+version = "0.1.0"
+edition = "2021" # Using 2021 edition is standard now
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nalgebra = "0.33"
+ggez = "0.9.3" 
